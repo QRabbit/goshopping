@@ -1,0 +1,37 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8989
+spring:
+  application:
+    name: shopping-gateway
+zuul:
+  routes:
+    api-manager:
+      path: /shopping-manager-ms/**
+      service-id: shopping-manager-ms
+    api-shop:
+      path: /shopping-shop-web/**
+      service-id: shopping-shop-web
+    api-search:
+      path: /shopping-search-ms/**
+      service-id: shopping-search-ms
+    api-page:
+      path: /shopping-page-ms/**
+      service-id: shopping-page-ms
+    api-essearch:
+      path: /shopping-essearch-ms/**
+      service-id: shopping-essearch-ms
+
+#    api-content:
+#      path: /shopping-content/**
+#      service-id: shopping-content-ms
+#    api-search:
+#      path: /shopping-search/**
+#      service-id: shopping-search-ms
+#    api-page:
+#      path: /shopping-page/**
+#      service-id: shopping-page-ms
+#

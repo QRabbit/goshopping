@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b45ece5-8087-4a5a-b849-09aa49e753fb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="youpinghui_mall" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../gongju/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\gongju\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1feyP6HwgmZYuDZ4QVZzPhmym1O" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo2020" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24593301" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qrabbit.youpinghui.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\youpinghui_mall\shopping-essearch-ms\src\main\resources\com\qrabbit\youpinghui\mapper" />
+      <recent name="F:\youpinghui_mall\shopping-essearch-ms\src\main\resources" />
+      <recent name="F:\youpinghui_mall\shopping-essearch-ms\src\main\java\com\qrabbit\youpinghui" />
+      <recent name="F:\youpinghui_mall\shopping-page-ms\src\main\resources" />
+      <recent name="F:\youpinghui_mall\shopping-page-ms\src\main\resources\com\qrabbit\youpinghui\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qrabbit.youpinghui.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\youpinghui_mall\shopping-manager-ms\src\main\java\com\qrabbit\youpinghui\service\impl" />
+      <recent name="F:\youpinghui_mall\shopping-manager-ms\src\main\java\com\qrabbit\youpinghui\service" />
+      <recent name="F:\youpinghui_mall\shopping-manager-ms\src\main\java\com\qrabbit\youpinghui\controller" />
+      <recent name="F:\youpinghui_mall\shopping-eureka-server\src\main\java\com\qrabbit\eureka" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 85 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AppZuul">
+    <configuration name="Tests.Testss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-shop-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qrabbit.youpinghui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qrabbit.youpinghui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qrabbit.youpinghui.tests.Tests" />
+      <option name="METHOD_NAME" value="Testss" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shopping-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.eureka.AppEureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppPage" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shopping-page-ms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.youpinghui.AppPage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSearch" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shopping-search-ms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.youpinghui.AppSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppZuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopping-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qrabbit.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.zuul.AppZuul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appmanager" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopping-manager-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qrabbit.youpinghui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.youpinghui.Appmanager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsSeachApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopping-essearch-ms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qrabbit.youpinghui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.youpinghui.EsSeachApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopping-shop-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qrabbit.youpinghui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qrabbit.youpinghui.ShopApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Appmanager" />
+        <item itemvalue="Spring Boot.AppZuul" />
+        <item itemvalue="Spring Boot.ShopApp" />
+        <item itemvalue="Spring Boot.EsSeachApp" />
+        <item itemvalue="JUnit.Tests.Testss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b45ece5-8087-4a5a-b849-09aa49e753fb" name="Default Changelist" comment="" />
+      <created>1596592825348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596592825348</updated>
+      <workItem from="1596592829983" duration="32939000" />
+      <workItem from="1596675647269" duration="21520000" />
+      <workItem from="1596764652852" duration="12095000" />
+      <workItem from="1596870972401" duration="5620000" />
+      <workItem from="1596894661975" duration="8881000" />
+      <workItem from="1597039611029" duration="1311000" />
+      <workItem from="1597108665171" duration="21076000" />
+      <workItem from="1597193790856" duration="9700000" />
+      <workItem from="1597280887898" duration="2031000" />
+      <workItem from="1597287595330" duration="18680000" />
+      <workItem from="1597387713478" duration="18196000" />
+      <workItem from="1597474021880" duration="904000" />
+      <workItem from="1597628293801" duration="9921000" />
+      <workItem from="1597730094318" duration="7722000" />
+      <workItem from="1597819810486" duration="9305000" />
+      <workItem from="1597903236938" duration="1252000" />
+      <workItem from="1597974619913" duration="1078000" />
+      <workItem from="1598079660397" duration="613000" />
+      <workItem from="1598233742623" duration="6033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-manager-ms/src/main/java/com/qrabbit/youpinghui/Appmanager.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shopping-eureka-server/src/main/java/com/qrabbit/eureka/AppEureka.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/shopping-shop-web/src/test/java/com/qrabbit/youpinghui/tests/Tests.java</url>
+          <line>31</line>
+          <properties class="com.qrabbit.youpinghui.tests.Tests" method="Testss">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/shopping-manager-ms/src/main/java/com/qrabbit/youpinghui/service/SpecificationService.java</url>
+          <line>25</line>
+          <properties class="com.qrabbit.youpinghui.service.SpecificationService" method="selectOptionList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
